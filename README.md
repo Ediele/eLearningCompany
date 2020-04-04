@@ -1,6 +1,6 @@
-# Software for management lear
+# Software for management learn
 
-![./gitELearning.png](logo e-learning)
+![gitELearning.png]
 
 The goal of this softeware is give for companies of the oportunies to 
 promove management of learn between your employes. Is possible to make 
