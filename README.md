@@ -11,3 +11,6 @@ It can be a very importante tool in your company.
 
 (Developmented by Ediele Gomes, it's free for testing)
 
+
+It's important mapping the knowledge habilits.
+
